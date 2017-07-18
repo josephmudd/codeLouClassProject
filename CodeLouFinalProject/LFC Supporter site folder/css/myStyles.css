@@ -1,0 +1,83 @@
+/* body */
+body {
+	background-color: grey;
+}
+
+h3 {
+	color: goldenrod;
+	text-shadow: 6px 6px 7px black,
+				 2px 2px 3px red;
+}
+
+p, li {
+	color: white;
+}
+
+/* TOP BAR */
+span h4 {
+	background: darkred;
+	font-family: fantasy;
+	color: white;
+	padding: 20px 10px 10px 10px;
+	text-shadow: 6px 6px 7px black,
+				 2px 2px 3px yellow;
+}
+
+
+
+/* TITLE BANNER */
+
+
+img #LFCkyLogo {
+	max-width: 100%;
+	height: auto;
+	padding-bottom: 10px;
+}
+.container h2 {
+	color: goldenrod;
+	text-shadow: 6px 6px 7px black,
+				 2px 2px 3px grey;
+}
+.container p {
+	color: white;
+}
+
+
+#photo1 {
+	background-color: darkred;
+	padding-left: 28px;
+	padding-top: 2px;
+}
+
+
+
+/*  PAGE HEADER  */
+
+
+
+
+/* NAV BAR */
+.navbar {
+	margin-bottom: -40px;
+	max-height: 40px;
+}
+
+ul li a {
+	color: white;
+}
+
+/* CAROUSEL STYLING 
+
+#carousel-contain.col-md-3.left-col {
+    padding-right:0px;
+}
+#carousel-contain.col-md-6 {
+    padding:0px;
+}
+#carousel-contain.col-md-3.right-col {
+    padding-left:0px;
+}
+*/
+
+
+
